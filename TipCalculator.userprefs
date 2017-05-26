@@ -1,9 +1,5 @@
 ﻿<Properties StartupConfiguration="{F405A876-4ADA-49E9-88CB-3C4EA04D5C75}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalculator/MyViewController.cs">
-    <Files>
-      <File FileName="TipCalculator/MyViewController.cs" Line="8" Column="34" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

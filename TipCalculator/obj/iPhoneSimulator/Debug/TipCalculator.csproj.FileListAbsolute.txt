@@ -7,3 +7,12 @@
 /Users/jamesslusser/Documents/GitHub Swift Development/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/TipCalculator.csproj.CoreCompileInputs.cache
 /Users/jamesslusser/Documents/GitHub Swift Development/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/TipCalculator.exe
 /Users/jamesslusser/Documents/GitHub Swift Development/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/TipCalculator.pdb
+/Users/jamesslusser/Documents/GitHub Swift Development/Xamarin University/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.exe
+/Users/jamesslusser/Documents/GitHub Swift Development/Xamarin University/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.pdb
+/Users/jamesslusser/Documents/GitHub Swift Development/Xamarin University/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/jamesslusser/Documents/GitHub Swift Development/Xamarin University/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_PartialAppManifest.items
+/Users/jamesslusser/Documents/GitHub Swift Development/Xamarin University/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/jamesslusser/Documents/GitHub Swift Development/Xamarin University/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/optimized/
+/Users/jamesslusser/Documents/GitHub Swift Development/Xamarin University/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/TipCalculator.csproj.CoreCompileInputs.cache
+/Users/jamesslusser/Documents/GitHub Swift Development/Xamarin University/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/TipCalculator.exe
+/Users/jamesslusser/Documents/GitHub Swift Development/Xamarin University/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/TipCalculator.pdb
